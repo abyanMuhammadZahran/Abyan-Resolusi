@@ -1,0 +1,9 @@
+Yang harus di kuasai sampai akhir 2021 :
+
+1 : Elemen yang dibutuhkan Sbg Front end Developer
+2 : Kuasai Github 
+3 : Ui/Ux Designer Knowledge
+4 : Android Development with Java Language
+5 : Sedikit Memperdalam PHP
+6 : Banyak Mengulik Javascript
+7 : Mengulik Database MySql
