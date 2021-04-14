@@ -5,11 +5,16 @@ Yang harus di kuasai sampai akhir 2021 :
 3 : Ui/Ux Designer Knowledge
 4 : Android Development with Java Language
 5 : Sedikit Memperdalam PHP
+  - Ulik Laravel
+  - Ulik Dasar Dasar OOP
 6 : Banyak Mengulik Javascript
 7 : Mengulik Database MySql
 8 : Menguasai Framework Front end Developer
-    - Bootstrap
-    - React Js
+
+  - React Js
+  - Vue Js
+  - Angular Js
+
 9 : Mulai Belajar Wordpress
 
 
