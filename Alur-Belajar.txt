@@ -7,3 +7,5 @@ Yang harus di kuasai sampai akhir 2021 :
 5 : Sedikit Memperdalam PHP
 6 : Banyak Mengulik Javascript
 7 : Mengulik Database MySql
+8 : Menguasai Framework Front end Developer
+9 : Mulai Belajar Wordpress
